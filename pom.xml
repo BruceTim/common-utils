@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>common-lang</module>
+        <module>common-dao</module>
+        <module>common-cache</module>
+        <module>common-http</module>
     </modules>
     <name>${groupId}.${artifactId}-${version}</name>
 
