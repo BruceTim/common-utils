@@ -1,3 +1,5 @@
+package com.brucehome.lang;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
@@ -9,7 +11,7 @@ import java.util.function.Predicate;
 import java.util.stream.Stream;
 
 /**
- * @Classname TreeUtils
+ * @Classname com.brucehome.lang.TreeUtils
  * @Description TODO
  * @Date 2021/8/10 21:37
  * @Author Bruce.Z
